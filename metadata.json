@@ -1,0 +1,7 @@
+{
+  "name": "LUNAR ECHO — The Forgotten Instrument Still Talking to Earth",
+  "description": "A NASA Space Apps Challenge 2026 educational web platform exploring the Apollo 11 Lunar Laser Ranging Retroreflector and lunar laser ranging science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
